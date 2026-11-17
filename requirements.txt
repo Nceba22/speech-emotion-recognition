@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+soundfile
+torch
+scikit-learn
+matplotlib
+seaborn
+tqdm
+streamlit
